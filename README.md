@@ -4,7 +4,7 @@ I'm Sirkku. This year I graduated from Lappland's University of Applied Sciences
 
 #### Web & Mobile Design and Development
 
-Skills: / REACT / JS / HTML / CSS / Kotlin / C# / C++ / Java / REST API / SQL / 
+Skills: / JS / HTML / CSS / Kotlin / C# / C++ / Java / REST API / SQL / 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sikesala93&langs_count=14&layout=compact)
 
