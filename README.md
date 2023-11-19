@@ -8,8 +8,6 @@ Skills: / JS / HTML / CSS / Kotlin / C# / C++ / Java / REST API / SQL /
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sikesala93&langs_count=14&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sikesala93&show_icons=true&theme=radical)
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sikesala93)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sirkku-kesälahti/)  
 
 
